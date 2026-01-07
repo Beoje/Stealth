@@ -11,3 +11,7 @@ Stealth is a fully custom-built ergonomic split keyboard. This repository provid
 ZMK provides US keycodes by default and configuration is easiest with US keycodes.
 Although this firmware implements a *Swiss* layout it should be used as a US keyboard in your OS.
 Stealth implements custom behaviours to simulate a swiss keyboard.
+
+## New build
+
+## New build
