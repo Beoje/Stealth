@@ -166,7 +166,7 @@
                 &kp LCTRL   &kp DE_Y     &kp X     &kp C     &kp V     &kp B           &kp N      &kp M      &kp DE_COMMA  &kp DE_PERIOD  &kp DE_MINUS   &kp ESC
 
                 // Thumb row (modifiers and space/return)
-                           &kp LGUI  &kp LALT  &kp SPACE              &kp SPACE     &kp to 0    &kp RALT
+                           &kp LGUI  &kp LALT  &kp SPACE              &kp SPACE     &to 0    &kp RALT
             >;
         };
     };
