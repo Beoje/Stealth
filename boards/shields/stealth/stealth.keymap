@@ -142,7 +142,7 @@
                 &kp LCTRL   &kp DE_BACKSLASH    &kp X     &kp C     &kp V     &kp DE_GRAVE           &kp DE_LESS_THAN  &kp DE_GREATER_THAN   &kp DE_COMMA  &kp DE_DOT   &kp DE_FSLH  &kp ESC
 
                 // Thumb row (modifiers and space/return)
-                           &kp LGUI  &to 0     &kp SPACE              &kp DE_MINUS     &kp  DE_SLASH   &kp  UNDERSCORE
+                           &kp LGUI  &to 0     &kp SPACE              &kp DE_MINUS     &kp  DE_SLASH   &kp  UNDER
             >;
         };
 
